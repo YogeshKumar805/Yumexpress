@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/yumxpress/dao/CompanyDAO.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/pojo/OrderPojo.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/dao/ProductDAO.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/ViewOrderHistoryFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/OrderHistoryFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/pojo/AddCartPojo.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/AddDeliveryStaffFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/CustomerCartFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/SellerLoginFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/utill/PasswordEncryption.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/DeliveryStaffOptionFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/ViewOrdersFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/SellerOptionFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/dao/CompanyDAO.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/CustomerAccountFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/UserVerifyFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/ViewFoodFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/dao/StaffDAO.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/DeliveryStaffLoginFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/dao/OrderDAO.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/CancelOrderFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/utill/Mailer.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/AddFoodFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/CustomerLoginFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/CustomerRegisterFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/OrderProductFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/SplashScreenFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/dao/CustomerDAO.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/SellerRegisterFrame.java</file>
+            <file>file:/D:/JAVA%20APPS/YumXpress/src/yumxpress/gui/ViewDeliveryStaffFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
